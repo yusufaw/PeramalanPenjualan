@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Peramalan Penjualan</string>
+    <string name="app_name_app">Aplikasi Peramalan Penjualan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">Tentang</string>
+    <string name="title_activity_form_peramalan">Metode Least Square</string>
+    <string name="n">N (Jumlah Penjualan)</string>
+    <string name="sigmaY">\u03A3Y</string>
+    <string name="sigmaXY">\u03A3XY</string>
+    <string name="sigmaX2">\u03A3X^2</string>
+    <string name="X">X</string>
+    <string name="hasilramal">Hasil Peramalan</string>
+    <string name="hasil">0</string>
+    <string name="title_activity_halaman_utama">HalamanUtama</string>
+    <string name="mulai">Mulai</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="tentang">Tentang</string>
+    <string name="title_activity_peramalan_penjualan">Peramalan Penjualan</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="dibuat">Dibuat oleh</string>
+    <string name="labelName">Ach. Chairul Rosikin</string>
+    <string name="labelFakultas">Fakultas Teknik</string>
+    <string name="labelJurusan">Teknik Elektro</string>
+    <string name="labelNim">201010130311063</string>
+    <string name="labelEmail">Crtg87@gmail.com</string>
+    <string name="labelUniv">Universitas Muhammadiyah Malang</string>
+    <string name="contentPeramalan">Peramalan Penjualan adalah kegiatan penyusunan perkiraan tentang sifat atau ciri tertentu di masa yang akan datang. \n\nAplikasi permalan ini tidak hanya digunakan untuk penjualan motor tetapi bisa juga digunakan untuk meramal semua penjualan berdasarkan data-data sebelumnya</string>
+    <string name="contentPetunjuk">Cara menggunakan aplikasi peramalan penjualan:\n1\n1. Mengumpulkan data penjualan sebelumnya.\n\n2. Menentukan nilai-nilai data tersebut untuk menentukan hasil ramalan.\n\n3. Memasukkan nilai-nilai ke dalam form yang sudah disediakan di dalam aplikasi.\n\n4. Menampilkan hasil ramalan.</string>
+
+</resources>
